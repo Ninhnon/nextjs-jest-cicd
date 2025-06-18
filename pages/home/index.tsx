@@ -12,7 +12,7 @@ export default function Home() {
 
       <main>
         <h1 className={styles.title}>
-          Welcome to Ninh to my website
+          Welcome to my website
         </h1>
         <p className={styles.description}>
           Get started by editing <code>pages/index.js</code>

@@ -9,7 +9,7 @@ exports[`renders homepage unchanged 1`] = `
       <h1
         class="title"
       >
-        Welcome to Ninh to my website
+        Welcome to my website
       </h1>
       <p
         class="description"
